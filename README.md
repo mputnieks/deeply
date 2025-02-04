@@ -4,7 +4,7 @@
 
 > Chat with a locally running DeepSeek LLM
 
-![Example Image](images/Deeply basic setup.png)
+![Example Image](images/deeply_basic.png)
 
 ## Known Issues
 
